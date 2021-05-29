@@ -1,0 +1,13 @@
+#idid{
+   
+    background: linear-gradient(#48bdb1 0%, #6bd16c);
+    text-align: center;
+}
+#ididid{
+    
+    background: linear-gradient(#48bdb1 0%, #6bd16c 100%);
+    text-align: center;
+}
+body{
+   background: linear-gradient(#48bdb1 0%, #6bd16c 100%); 
+}
